@@ -1,0 +1,14 @@
+{
+  "name": "font-detect",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Po-Ying Chen <poying.me@gmail.com> (陳柏穎)",
+  "license": "MIT",
+  "devDependencies": {
+    "duo": "^0.12.0"
+  }
+}
