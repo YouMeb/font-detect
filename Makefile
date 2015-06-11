@@ -1,7 +1,7 @@
 BIN := ./node_modules/.bin
 DUO := $(BIN)/duo
 
-SRC := ./*.js
+SRC := ./*.js ./lib/*.js
 
 build: build/index.js
 
