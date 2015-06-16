@@ -11,6 +11,22 @@ console.log(detect('sans-serif'));
 console.log(detect('wtasdasdf'));
 ```
 
+## 安裝
+
+### Duo
+
+不需特別設定，直接在程式中 require：
+
+```javascript
+var fontDetect = require('YouMeb/font-detect');
+```
+
+### Browserify
+
+```bash
+$ npm i --save git+https://git@github.com/YouMeb/font-detect.git
+```
+
 ## 開發
 
 ```bash
